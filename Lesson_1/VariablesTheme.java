@@ -1,5 +1,4 @@
 public class VariablesTheme {   
-
     public static void main(String[] args) {
         byte processorFrequency = 3;
         short hddSize = 256;
